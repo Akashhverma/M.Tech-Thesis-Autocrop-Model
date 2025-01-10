@@ -1,0 +1,5 @@
+train: D:\\MUSIC N JOY\\zIIT DELHI\\Mtech Project\\dataset\\images\\train
+val: D:\\MUSIC N JOY\\zIIT DELHI\\Mtech Project\\dataset\\images\\valid
+
+nc: 3 
+names: ['ROI','C','T'] 
