@@ -72,7 +72,9 @@ Enhance the model's performance across varying lighting conditions and smartphon
 For any questions or collaboration opportunities, feel free to contact me:
 Name: Akash Verma
 Email: [akashverma3572@gmail.com]
+
 GitHub: [https://github.com/Akashhverma]
+
 LinkedIn: [https://www.linkedin.com/in/akash-verma-525a88145/]
 
 
